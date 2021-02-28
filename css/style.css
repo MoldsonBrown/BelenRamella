@@ -19,6 +19,12 @@
 /* ===================================
     1. Button CSS
 ====================================== */
+.profile
+{
+  display:block;
+  margin:auto;
+}
+
 a.button
 {
     display: inline-block;
