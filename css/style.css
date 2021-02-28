@@ -289,6 +289,13 @@ a.button:hover
     8. Gallery Item CSS
 ====================================== */
 
+.imagenabout {
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .justified-gallery>a>.caption,
 .justified-gallery>div>.caption
