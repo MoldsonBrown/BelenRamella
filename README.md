@@ -1,2 +1,0 @@
-# BelenRamella
-Sitio de artista
