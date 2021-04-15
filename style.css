@@ -12,7 +12,54 @@ letter-spacing: 3.15px;
 text-align: left;
 color: #000000;
 }
-
+.column-isla1 {
+  width: 25%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-isla2 {
+  width: 75%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi1 {
+  width: 58.9%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi2 {
+  width: 41.1%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi3 {
+  width: 30%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi4 {
+  width: 20%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi5 {
+  width: 30%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
+.column-jubi6 {
+  width: 20%;
+ float: left;
+ flex: 0 1 auto;
+ padding: 0 4px;
+}
 * {
  box-sizing: border-box;
 }
